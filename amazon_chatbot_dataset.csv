@@ -1,0 +1,20 @@
+intent,pattern,response
+greeting,hi,Hello! Welcome to Amazon Customer Support. How can I assist you today?
+greeting,hello,Hello! Welcome to Amazon Customer Support. How can I assist you today?
+greeting,hey,Hello! Welcome to Amazon Customer Support. How can I assist you today?
+order_status,order status,You can check your order status by visiting 'Your Orders' in your Amazon account. Is there anything else I can help with?
+track_package,track my package,"To track your package, please go to 'Your Orders' and select the order you want to track. Do you need assistance with anything else?"
+return_item,return,"To initiate a return, visit 'Your Orders', select the item, and follow the instructions for a return. Is there something else I can help you with?"
+refund,refund,Refunds are processed within 5-7 business days after we receive your return. You can check the status in 'Your Orders'. Anything else I can assist you with?
+prime_membership,prime membership,You can manage your Prime membership by visiting 'Your Account' and selecting 'Prime Membership'. How else may I assist you today?
+payment_method,payment method,"To update your payment methods, go to 'Your Account' and select 'Payment options'. Is there anything else I can help with?"
+account_settings,account settings,"You can change your account settings, including your email and password, by visiting 'Login & security' in 'Your Account'. Do you need further assistance?"
+customer_service,customer service,You can contact Amazon Customer Service by visiting our 'Help & Customer Service' page. How else may I assist you?
+cancel_order,cancel order,"To cancel an order, go to 'Your Orders', select the order, and choose 'Cancel items'. Is there something else I can help you with?"
+shipping_address,change shipping address,"You can update your shipping address in 'Your Account' under 'Your Addresses'. For orders already placed, go to 'Your Orders' to see if you can change the address. Anything else I can assist with?"
+gift_card,gift card,"To redeem or check your gift card balance, visit 'Your Account' and select 'Gift cards'. How else may I assist you today?"
+forgot_password,forgot password,"If you've forgotten your password, you can reset it by selecting 'Forgot your password?' on the login page. Do you need further assistance?"
+report_problem,report a problem,"To report an issue with your order or account, please visit our 'Help & Customer Service' page. Is there anything else I can help with?"
+goodbye,bye,Thank you for contacting Amazon Customer Support. Have a great day!
+goodbye,goodbye,Thank you for contacting Amazon Customer Support. Have a great day!
+fallback,unknown,"I'm sorry, but I couldn't understand your request. Could you please rephrase it or visit our 'Help & Customer Service' page for more information?"
